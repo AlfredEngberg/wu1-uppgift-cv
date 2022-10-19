@@ -9,6 +9,7 @@ Skriv en kort planering först.
 
 ## Log
 
-Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
+Lektion 1 2022-10-19
 
-Skriv även sådant som du måste arbeta med nästa pass.
+Jag skissade fyra olika skisser på en hemsida. Designade den i figma också.
+https://www.figma.com/file/TZL78gF5i1GYfqz5sZF9dq/Chiaphas-Cain?node-id=0%3A1'
