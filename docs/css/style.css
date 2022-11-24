@@ -1,0 +1,67 @@
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
+
+img {
+    max-width: 100%;
+    width: 10;
+    height: 10;
+}
+
+main {
+    background-color: rgb(82, 11, 11);
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+nav>ul {
+    color: cornflowerblue;
+    list-style: none;
+    display: flex;
+    gap: 8rem;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(25, 20, 5);
+    color: cornsilk;
+}
+
+.hero {
+    display: grid;
+    grid-template-areas: "stack";
+}
+
+.hero {
+    grid-area: stack;
+}
+
+.header{
+    background-color: rgb(218, 24, 24);
+}
+
+.hero>h1 {
+    place-self: center;
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+    outline: auto;
+    outline-style: groove;
+    outline-color: rgb(218, 24, 24);
+    outline-width: 0.1ch;
+    padding: 1rem;
+}
+.hero>h1>img {
+    offset: 10rem;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
