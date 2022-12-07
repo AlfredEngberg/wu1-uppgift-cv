@@ -3,6 +3,10 @@
     margin-inline: auto;
 }
 
+a {
+    color: cornsilk;
+}
+
 img {
     max-width: 100%;
 }
