@@ -25,7 +25,7 @@ nav>ul {
     color: cornflowerblue;
     list-style: none;
     display: flex;
-    gap: 8rem;
+    gap: 4rem;
     padding: 0;
 }
 
