@@ -20,7 +20,7 @@ Skriv en kort planering först.
 :) Sidan följer alla relevanta lagar och regler för publicering på webben.
 :/ (listan är lite goofy, den goofar sig) Testa att öppna sidan på en mobiltelefon.
 :) Testa att öppna sidan på en dator.
-:/ (Kontrast error (bara på länkar )och lite suspekt blider) Kör WAVE, inga fel, arbeta med        
+:/ (Kontrast error (bara på länkar, fixade lätt det) och lite suspekt blider) Kör WAVE, inga fel, arbeta med        
    varningar.
 :) (Jag tror det, kollade igenom länken och allt verkar bra)  Sidans media är optimerat, ex. 
    bildstorlek och upplösning.
@@ -37,3 +37,7 @@ Lektion 1 2022-10-19
 
 Jag skissade fyra olika skisser på en hemsida. Designade den i figma också.
 https://www.figma.com/file/TZL78gF5i1GYfqz5sZF9dq/Chiaphas-Cain?node-id=0%3A1'
+
+## dokumentiaion
+
+Det har gått extra bra att fixa html för allt. Det som gick bäst var länkarna, kollade upp hur man gjorde det och det fungerade på en gång. Det var en magisk kännsla. CSS var svårare, förstår fortfarande inte riktigt vad jag har gjort och hur det fungerar men på något höger och vänster så gör den det. Det svåraste med CSS var nog at få till att sakerna är där dom ska vara. Jag behöver lära mig mer om CSS och hur CSS är. Valideringarna gick ganska bra. Det var 5 fel totalt, 1 i html, 1 kontrast fel och 3 i CSS. I html hade jag ett attribut i stängnings tagg och i html hade jag glömmt en enhet, lade till rem, insåg att det var onödigt och tog bort den. Kontrastet var fel på länkarna så lade till färg på länkarna.
