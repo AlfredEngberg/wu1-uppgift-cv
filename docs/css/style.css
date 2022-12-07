@@ -43,7 +43,7 @@ body {
     grid-area: stack;
 }
 
-.header{
+.header {
     background-color: rgb(218, 24, 24);
 }
 
@@ -57,8 +57,9 @@ body {
     outline-width: 0.1ch;
     padding: 1rem;
 }
+
 .hero>h1>img {
-    offset: 10rem;
+    offset: 5rem;
 }
 
 footer {
@@ -70,15 +71,16 @@ nav {
     display: inline-flex;
     justify-content: space-between;
     padding: 1rem;
-    color:rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
 }
 
 :root {
     --color-light: #f0f0f0;
-    --color-dark:  rgb(218, 24, 24);
+    --color-dark: rgb(218, 24, 24);
     --color-primary: #ec325a;
-    --color-secondary:#4a0080;
+    --color-secondary: #4a0080;
 }
+
 .btn {
     text-align: center;
     text-decoration: none;
@@ -89,9 +91,11 @@ nav {
     border: 1px solid transparent;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
 .btn:hover {
     background-color: var(--color-primary);
 }
+
 .btn-rounded {
     border-radius: 5%;
 }
